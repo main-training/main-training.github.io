@@ -4,7 +4,7 @@ MAIN training
 .. image:: lace_brain.jpg
   :width: 600px
 
-.. warning:: Registration in now open on `eventbrite <https://www.eventbrite.ca/e/deep-learning-in-neuroimaging-machine-learning-scikit-learn-nilearn-tickets-53388406160>`_
+.. warning:: Registration in now open on `eventbrite <https://www.eventbrite.ca/e/main-2019-2-days-training-workshops-14-15-november-2019-tickets-77849862033>`_
 
 This training workshop will cover essentials in machine learning and deep learning to make the most of the `Montreal AI and Neuroscience conference <http://www.crm.umontreal.ca/2019/MAIN2019/index_e.php>`_.
 

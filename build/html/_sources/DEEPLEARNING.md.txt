@@ -23,7 +23,7 @@ In addition, a key objective of the course is to gain an understanding of how de
 
 **Afternoon (13h30-17h)** *intersection of deep learning and neuroscience*
 ```
-13:30 pm – 15:00 pm: Linking the activity of artificial and biological networks (Jessica Thomson)
+13:30 pm – 15:00 pm: Comparing the activity of artificial and biological networks (Jessica Thompson)
 15:00 pm – 15:30 pm: Break
 15:30 pm – 17:00 pm: (Brain) graph convolutional networks (Yu Zhang)
 ```
