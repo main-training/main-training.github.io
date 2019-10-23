@@ -12,6 +12,6 @@ This training workshop will cover essentials in machine learning and deep learni
 
 **where**: the `MILA <https://mila.quebec/en/mila/>`_, 6666 St-Urbain, #200, Montreal, QC, H2S 3H1.
 
-**costs**: 50$ per day.
+**costs**: 55$ per day.
 
 Please join the `brainhack mattermost <https://mattermost.brainhack.org>`_ (similar to slack) to discuss the event. There are two different channels: ``main-training-ml`` (Nov 14th) and ``main-training-dl`` (Nov 15th). Also follow `@MAIN_Community <https://twitter.com/MAIN_Community>`_ on Twitter for updates.
