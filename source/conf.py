@@ -51,10 +51,10 @@ html_theme = 'sphinx_rtd_theme'
 html_short_title = 'MAIN training'
 
 # The logo
-html_logo = 'img/main.png'
+html_logo = 'favicon.png'
 
 # icon
-html_favicon = 'img/main.png'
+html_favicon = 'favicon.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
