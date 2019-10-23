@@ -51,7 +51,7 @@ html_theme = 'sphinx_rtd_theme'
 html_short_title = 'MAIN training'
 
 # The logo
-html_logo = 'main.png'
+html_logo = ''
 
 # icon
 html_favicon = 'favicon.png'
