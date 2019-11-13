@@ -19,11 +19,13 @@ This part of the course will follow the scikit-learn chapter of the scipy-lectur
 
 **Afternoon (13h30-17h):** *introduction to nilearn*
 
-This part of the course will provide a general introduction to nilearn, including a full prediction pipeline with fMRI data, following this [resource](https://brainhack101.github.io/introML-book).
+This part of the course will provide a general introduction to nilearn, including a full prediction pipeline with fMRI data.
 
 **Prerequisites**
 
 - Basic familiarity with Python would be preferable
 - You will need enough space for Anaconda and all the course data (~4GB).
 
-Detailed installation instructions for the tutorials will be made available soon.
+**Installation instructions**
+
+Please join the [brainhack mattermost](https://mattermost.brainhack.org) and the channel `main-training-ml`. All the notebook tutorials, as well as installation instructions are available on the [main-training-ml](https://github.com/main-training/main-training-nilearn-ml) github repository.
