@@ -34,6 +34,7 @@ In addition, a key objective of the course is to gain an understanding of how de
 - You will need enough space for Anaconda and all the course data.
 
 **Installation instructions**
+
  Please join the [brainhack mattermost](https://mattermost.brainhack.org) and the channel `main-training-dl`. To install training material locally, please download and install python with the full-suite 64-bit [Anaconda distribution](https://www.anaconda.com/distribution/). Then download or clone the github repositories specific to each session:
   - [intro to deep learning](https://github.com/josephdviviano/intro-dl)
   - [variational auto-encoders](https://github.com/lyprince/lfads%5C_demo) and a simple [tutorial](https://github.com/pytorch/examples/blob/master/vae/main.py).
