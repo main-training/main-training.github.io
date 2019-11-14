@@ -37,6 +37,6 @@ In addition, a key objective of the course is to gain an understanding of how de
 
  Please join the [brainhack mattermost](https://mattermost.brainhack.org) and the channel `main-training-dl`. To install training material locally, please download and install python with the full-suite 64-bit [Anaconda distribution](https://www.anaconda.com/distribution/). Then download or clone the github repositories specific to each session:
   - [intro to deep learning](https://github.com/josephdviviano/intro-dl)
-  - [variational auto-encoders](https://github.com/lyprince/lfads%5C_demo) and a simple [tutorial](https://github.com/pytorch/examples/blob/master/vae/main.py).
+  - [variational auto-encoders](https://github.com/lyprince/lfads_demo) and a simple [tutorial](https://github.com/pytorch/examples/blob/master/vae/main.py).
   - [graph convolutional network](https://github.com/zhangyu2ustc/gcn_tutorial_test)
   The dependencies for each session are described on each repo. Test everything by opening each of the `.ipynb` notebooks and running the first few cells.
