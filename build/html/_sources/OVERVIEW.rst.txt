@@ -10,7 +10,7 @@ This training workshop will cover essentials in machine learning and deep learni
 
 **when**: November 14th and 15th.
 
-**where**: the `MILA <https://mila.quebec/en/mila/>`_, 6650 St-Urbain, Montreal, QC, H2S 3H1.
+**where**: the `MILA <https://mila.quebec/en/mila/>`_, 6650 St-Urbain, 2nd floor #200, Montreal, QC, H2S 3H1.
 
 **costs**: 55$ per day.
 
