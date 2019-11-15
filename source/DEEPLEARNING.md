@@ -14,19 +14,15 @@ In addition, a key objective of the course is to gain an understanding of how de
 
 **Morning (9h-12h30)**: *Foundation of deep learning*
 
-```
-9:00 am – 10:30 am: Deep Learning and convolutional networks (Joseph Viviano).
-10:30 am – 11:00 am: Break
-11:00 am – 12:30 pm: Variational auto-encoders (Blake Richards, [github repo](https://github.com/lyprince/lfads%5C_demo), VAE [tutorial](https://github.com/pytorch/examples/blob/master/vae/main.py))
-12:30 pm - 1:30 pm: Lunch
-```
+ * 9:00 am – 10:30 am: Deep Learning and convolutional networks (Joseph Viviano) | [google slides](https://docs.google.com/presentation/d/1Bf8TA56VCEIdpTPkg_i7Tyqo8ikUFvY5xVl-APXjD-0/edit?usp=sharing) | [pdf slides](./_static/viviano_main_tutorial2019.pdf) | [github repo](https://github.com/josephdviviano/intro-dl)
+ * 10:30 am – 11:00 am: Break
+ * 11:00 am – 12:30 pm: Variational auto-encoders (Blake Richards) | [pdf slides](./_static/richards_main_tutorial2019.pdf) | [VAE tutorial](https://github.com/pytorch/examples/blob/master/vae/main.py) | [LFADS tutorial](https://github.com/lyprince/lfads_demo)   
+ * 12:30 pm - 1:30 pm: Lunch
 
 **Afternoon (13h30-17h)** *intersection of deep learning and neuroscience*
-```
-13:30 pm – 15:00 pm: Comparing the activity of artificial and biological networks (Jessica Thompson)
-15:00 pm – 15:30 pm: Break
-15:30 pm – 17:00 pm: (Brain) graph convolutional networks (Yu Zhang, [github repo](https://github.com/zhangyu2ustc/gcn_tutorial_test))
-```
+ * 13:30 pm – 15:00 pm: Comparing the activity of artificial and biological networks (Jessica Thompson) | [google slides](https://docs.google.com/presentation/d/1HF_-P1y1stmWcCO8bBryCGob3FDoWHmH6T3kzaHVnCI/edit?usp=sharing) | [pdf slides](./_static/thompson_main_tutorial2019.pdf)
+ * 15:00 pm – 15:30 pm: Break
+ * 15:30 pm – 17:00 pm: (Brain) graph convolutional networks (Yu Zhang) | [google slides](https://docs.google.com/presentation/d/1_Evu4m1Y12iK14e6fl_vP1gsSUXPrYd_03TpKB64lh8/edit?usp=sharing) | [pdf slides](./_static/zhang_main_tutorial2019.pdf) | [github repo](https://github.com/zhangyu2ustc/gcn_tutorial_test)
 
 **Prerequisites**
 
